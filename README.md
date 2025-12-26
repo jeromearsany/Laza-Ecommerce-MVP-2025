@@ -1,7 +1,7 @@
 # Laza — E-Commerce Mobile App (MVP) 🚀🛍️
 
 **Faculty of Computers and Data Science — Fall 2025**  
-**Course:** Mobile App Development (Cybersecurity Program) 🧑‍💻🔒
+**Course:** Mobile Programming 🧑‍💻
 
 ---
 
@@ -242,10 +242,13 @@ If you open source the project, add a `LICENSE` file. A common choice is the **M
 
 ---
 
-## Contact ✉️
+## Team Members 👥
 
-**Owner:** Jerome Arsany  
-If you need help, open an issue in this repository or contact the owner via their GitHub profile.
+- **Jerome Arsany** — Developer (contributed equally)  
+- **Botamina Kamel** — Developer (contributed equally)
+
+Both team members worked together on all parts of the project (design, implementation, testing, and documentation). There were no separate or assigned roles — all work was shared and both members contributed equally.
+
 
 ---
 
