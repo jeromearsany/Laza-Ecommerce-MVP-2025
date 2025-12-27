@@ -251,10 +251,3 @@ Both team members worked together on all parts of the project (design, implement
 
 
 ---
-
-If you want, I can also:
-- Convert this README into a ready-to-paste `README.md` file. 📝  
-- Add a `CONTRIBUTING.md` or `SECURITY.md`. 🔐  
-- Create a sample `firebase.rules` for Firestore permissions. 🛡️
-
-Tell me which one you'd like next and I'll generate it. 😊
